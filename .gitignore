@@ -1,0 +1,16 @@
+*# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment folder (e.g., venv or .env)
+venv/
+.env/
+.venv/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore compiled C files
+*.so
